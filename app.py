@@ -2,5 +2,7 @@ def initialiser():
     print("Mode complet activé.")
     print("Mode rapide disponible.")
 
-if __name__ == "__main__":
-    initialiser()
+def optimiser():
+    valeur = 5
+    resultat = valeur * 2
+    print(resultat)
